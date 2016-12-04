@@ -1,5 +1,4 @@
 FROM ruby:2.1
-MAINTAINER Port of Rotterdam <noreply@portofrotterdam.com>
 
 # Install dashing and bundle
 RUN gem install dashing
